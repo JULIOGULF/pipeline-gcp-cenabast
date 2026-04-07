@@ -1,5 +1,5 @@
 # ============================================================
-# ETL Pipeline - Datos CENABAST → BigQuery (sin Cloud Storage)
+# ETL Pipeline - Datos CENABAST → BigQuery 
 # Autor: Julio Carvallo
 # Descripción: Pipeline que extrae datos de precios de
 # medicamentos, los limpia y los carga directo en BigQuery
@@ -92,4 +92,3 @@ job.result()  # Esperar que termine
 tabla = bq_client.get_table(table_ref)
 print(f"   ✅ {tabla.num_rows} filas cargadas en BigQuery")
 
-# ── PASO 4: VERIFICAR CON QUERIES SQL
