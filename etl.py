@@ -1,8 +1,6 @@
 # ============================================================
-# ETL Pipeline - Datos CENABAST → BigQuery 
+# ETL Pipeline - Datos CENABAST
 # Autor: Julio Carvallo
-# Descripción: Pipeline que extrae datos de precios de
-# medicamentos, los limpia y los carga directo en BigQuery
 # ============================================================
 
 import pandas as pd
