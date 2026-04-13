@@ -113,4 +113,4 @@ db-dtypes>=1.0.0
 
 ---
 
-**Autor:** Julio Carvallo | [LinkedIn](https://linkedin.com/in/TU_PERFIL)
+**Autor:** Julio Carvallo | www.linkedin.com/in/julio-carvalo
